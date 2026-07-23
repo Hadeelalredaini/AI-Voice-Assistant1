@@ -1,0 +1,6 @@
+cohere
+python-dotenv
+SpeechRecognition
+PyAudio
+gTTS
+playsound==1.2.2
